@@ -15,7 +15,7 @@ Motivated and detail-oriented B.Tech student specializing in Electronics and Com
 
 | **Course/Degree**                            | **Institution**                     | **Grade/Score (Year)**         |
 | -------------------------------------------- | ----------------------------------- | ------------------------------ |
-| B.Tech in Electronics and Communication Engineering | KL University, Andhra Pradesh       | CGPA: 9.0/10.0 (2025)          |
+| B.Tech in Electronics and Communication Engineering | KL University, Andhra Pradesh       | CGPA: 9.07/10.0 (2025)          |
 | Intermediate/Plus 2                          | Sri Sai Junior College, Andhra Pradesh | 76.63% (2021)                 |
 | High School                                  | Narayana EM School, Andhra Pradesh  | CGPA: 9.8/10.0 (2019)          |
 
@@ -35,10 +35,10 @@ Motivated and detail-oriented B.Tech student specializing in Electronics and Com
   - Implemented algorithms for light source tracking.
   - Calibrated for accurate light-tracking behavior.
 
-- **Optimized Wallace Tree Multiplier using Power Efficient 8:3 Counter**  
+- **Optimized Wallace Tree Multiplier using Power Efficient Adders**  
   [Link for Project Details](https://rishibabuprojects.blogspot.com/2024/03/optimized-wallace-tree-multiplier-with.html)
   - Developed an optimized Wallace Tree Multiplier using Xilinx Vivado.
-  - Implemented a power-efficient 8:3 counter design.
+  - Implemented a power-efficient Adders design.
 
 ---
 
