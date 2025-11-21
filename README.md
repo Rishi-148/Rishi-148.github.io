@@ -15,7 +15,7 @@ Motivated and detail-oriented B.Tech student specializing in Electronics and Com
 
 | **Course/Degree**                            | **Institution**                     | **Grade/Score (Year)**         |
 | -------------------------------------------- | ----------------------------------- | ------------------------------ |
-| B.Tech in Electronics and Communication Engineering | KL University, Andhra Pradesh       | CGPA: 9.07/10.0 (2025)          |
+| B.Tech in Electronics and Communication Engineering | KL University, Andhra Pradesh       | CGPA: 9.16/10.0 (2025)          |
 | Intermediate/Plus 2                          | Sri Sai Junior College, Andhra Pradesh | 76.63% (2021)                 |
 | High School                                  | Narayana EM School, Andhra Pradesh  | CGPA: 9.8/10.0 (2019)          |
 
