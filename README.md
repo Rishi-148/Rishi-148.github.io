@@ -46,7 +46,7 @@ Motivated and detail-oriented B.Tech student specializing in Electronics and Com
 
 **Technical:** Arduino, FPGA, Xilinx Vivado, Cadence Virtuoso  
 **Languages:** Python, Java(basics), Verilog  
-**Soft Skills:** Teamwork, Effective Communication, Problem Solving
+**Soft Skills:** Teamwork, Problem Solving
 
 ---
 
